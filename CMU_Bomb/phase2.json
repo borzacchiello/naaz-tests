@@ -1,0 +1,43 @@
+{
+    "pc": "0x400F0A",
+    "regs": {
+        "RSP": {
+            "value": "0xAAAA00"
+        },
+        "RSI": {
+            "value": "0xAAAA00"
+        }
+    },
+    "mem": {
+        "0xAAAA00": {
+            "size": 4,
+            "symbol": true,
+            "value": "val1"
+        },
+        "0xAAAA04": {
+            "size": 4,
+            "symbol": true,
+            "value": "val2"
+        },
+        "0xAAAA08": {
+            "size": 4,
+            "symbol": true,
+            "value": "val3"
+        },
+        "0xAAAA0C": {
+            "size": 4,
+            "symbol": true,
+            "value": "val4"
+        },
+        "0xAAAA10": {
+            "size": 4,
+            "symbol": true,
+            "value": "val5"
+        },
+        "0xAAAA14": {
+            "size": 4,
+            "symbol": true,
+            "value": "val6"
+        }
+    }
+}

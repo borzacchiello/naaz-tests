@@ -1,0 +1,19 @@
+{
+    "pc": "0x401062",
+    "mem": {
+        "0xAAAAA0": {
+            "size": 6,
+            "symbol": true,
+            "value": "input"
+        },
+        "0xAAAAA6": {
+            "size": 1,
+            "value": 0
+        }
+    },
+    "regs": {
+        "RDI": {
+            "value": "0xAAAAA0"
+        }
+    }
+}

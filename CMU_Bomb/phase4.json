@@ -1,0 +1,23 @@
+{
+    "pc": "0x401029",
+    "regs": {
+        "RSP": {
+            "value": "0xAAAA00"
+        },
+        "EAX": {
+            "value": 2
+        }
+    },
+    "mem": {
+        "0xAAAA08": {
+            "size": 4,
+            "symbol": true,
+            "value": "val1"
+        },
+        "0xAAAA0C": {
+            "size": 4,
+            "symbol": true,
+            "value": "val2"
+        }
+    }
+}

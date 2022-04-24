@@ -1,0 +1,19 @@
+{
+    "pc": "0x400EE0",
+    "mem": {
+        "0xaaaaaa": {
+            "size": 64,
+            "symbol": true,
+            "value": "input"
+        },
+        "0xaaaaea": {
+            "size": 1,
+            "value": 0
+        }
+    },
+    "regs": {
+        "RDI": {
+            "value": "0xaaaaaa"
+        }
+    }
+}
