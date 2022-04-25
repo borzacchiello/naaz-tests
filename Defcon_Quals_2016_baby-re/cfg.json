@@ -1,0 +1,78 @@
+{
+    "pc": "0x4028D9",
+    "regs": {
+        "RSP": {
+            "value": "0xAAAA00"
+        },
+        "RBP": {
+            "value": "0xAAAA60"
+        }
+    },
+    "mem": {
+        "0xAAAA00": {
+            "size": 4,
+            "symbol": true,
+            "value": "val0"
+        },
+        "0xAAAA04": {
+            "size": 4,
+            "symbol": true,
+            "value": "val1"
+        },
+        "0xAAAA08": {
+            "size": 4,
+            "symbol": true,
+            "value": "val2"
+        },
+        "0xAAAA0C": {
+            "size": 4,
+            "symbol": true,
+            "value": "val3"
+        },
+        "0xAAAA10": {
+            "size": 4,
+            "symbol": true,
+            "value": "val4"
+        },
+        "0xAAAA14": {
+            "size": 4,
+            "symbol": true,
+            "value": "val5"
+        },
+        "0xAAAA18": {
+            "size": 4,
+            "symbol": true,
+            "value": "val6"
+        },
+        "0xAAAA1C": {
+            "size": 4,
+            "symbol": true,
+            "value": "val7"
+        },
+        "0xAAAA20": {
+            "size": 4,
+            "symbol": true,
+            "value": "val8"
+        },
+        "0xAAAA24": {
+            "size": 4,
+            "symbol": true,
+            "value": "val9"
+        },
+        "0xAAAA28": {
+            "size": 4,
+            "symbol": true,
+            "value": "val10"
+        },
+        "0xAAAA2C": {
+            "size": 4,
+            "symbol": true,
+            "value": "val11"
+        },
+        "0xAAAA30": {
+            "size": 4,
+            "symbol": true,
+            "value": "val12"
+        }
+    }
+}
